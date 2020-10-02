@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+.heading{
+    font-size: 30px;
+    width: 80%;
+    color: crimson;
+}
+
+.objectlist{
+    color: deeppink;
+    font-size: 20px;
+}
+
+#camera{
+    border: hotpink 2px solid;
+    width: 300px;
+    height: 300px;
+}
+
+#objectname,#acuracy{
+    color: indianred;
+    font-size: 15px;
+    
+}
